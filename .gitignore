@@ -1,0 +1,7 @@
+# Ignore model folders
+/models/survivor_model/
+/models/gguf_model/
+/logs/
+__pycache__/
+*.pyc
+.env
